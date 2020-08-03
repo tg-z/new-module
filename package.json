@@ -18,7 +18,7 @@
     "dotty": "0.0.2",
     "inquirer": "^0.5.1",
     "js-string-escape": "^1.0.0",
-    "npm": "^2.1.2",
+    "npm": "^6.14.6",
     "npmconf": "^1.0.1",
     "readdirp": "^1.0.1",
     "semver": "^4.0.3",
